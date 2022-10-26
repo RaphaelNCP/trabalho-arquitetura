@@ -111,7 +111,7 @@ body {
 
 .cloud-1 {
     background: rgba(0, 0, 0, 0.7);
-    background-image: url(./imagens/nuvem2.jpg);
+    background-image: url(./assets/imagens/nuvem2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 30px;
@@ -207,7 +207,7 @@ body {
 
 .data-background {
     background: rgba(0, 0, 0, 0.7);
-    background-image: url(./imagens/datacenter.jpg);
+    background-image: url(./assets/imagens/datacenter.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 30px;
